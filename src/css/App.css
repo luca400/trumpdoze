@@ -1,0 +1,19 @@
+.header{
+  display: flex;
+  justify-content: left;
+  
+}
+header{
+  margin:20px;
+}
+.orange{
+  color: rgb(255, 136, 0);
+  font-size: 30px;
+}
+.quoteSection{
+  margin: 40px;
+}
+
+#quoteButton{
+  margin-left: 45%;
+}
