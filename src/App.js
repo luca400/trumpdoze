@@ -44,6 +44,7 @@ function App() {
 
         </div>
       </nav>
+      <img  height="300" width="400" src="https://playtech.ro/wp-content/uploads/2022/02/angajari-donald-trump.jpg"></img>
       <div className='quoteSection card'>
         <div className='card-body'>
           <figure class="text-center">
@@ -58,7 +59,9 @@ function App() {
         </div>
       </div>
       <button id='quoteButton' onClick={getRandomQuote} type='button' class='btn btn-warning'>Get Trumptized</button>
-
+      <footer>
+        <h2>Author: Luca Predoi, Github @luca400</h2>
+      </footer>
 
     </div>
 
